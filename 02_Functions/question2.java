@@ -19,6 +19,10 @@ class question2{
         System.out.print("Enter the input: ");
         int number = sc.nextInt();
         sc.close();
-        System.out.println("Factorial of the given input is: " + factorial(number));
+        if(number < 0){
+            System.out.println("Invalid Input");
+        } else{
+            System.out.println("Factorial of the given input is: " + factorial(number));
+        }
     }
 }
