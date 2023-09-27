@@ -1,3 +1,5 @@
+// Make function to find factorial....
+
 import java.util.*;
 class question2{
     public static int factorial(int number){
