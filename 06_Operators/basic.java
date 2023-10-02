@@ -6,6 +6,7 @@
 4. Logical Operators => &&(Logical And), ||(Logical OR), !(Logical Not).
 5.Bitwise Operators => &(Bitwise And), |(Bitwise Or), ^(Bitwise XOR), ~(Bitwise One's Complement).
 6. Binary Left Shift(<<) & Binary Right Shift(>>).
+7. Assignment Operators => =, +=, -=, *=, /=, %=.
 */
 
 import java.util.*;
