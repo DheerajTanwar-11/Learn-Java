@@ -3,7 +3,6 @@
 2. Java introduced StringBuilder to overcome the problem of immutability os String.
 */
 
-import java.util.*;
 
 class stringBuilder{
     public static void main(String args[]) {

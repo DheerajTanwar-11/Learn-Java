@@ -5,7 +5,6 @@
 4. Total number of element in 2d array = row * column. 
 */
 
-import java.util.*;
 class Array2d{
     public static void main(String args[]){
         int[][] matrix = new int[2][2];

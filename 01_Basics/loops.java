@@ -1,5 +1,4 @@
 // Here we will learn loops in java...
-import java.util.*;
 class loops{
     public static void main(String args[]){
         System.out.println("############### For Loop ######################");

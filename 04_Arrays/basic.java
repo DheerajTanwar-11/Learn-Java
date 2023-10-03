@@ -6,7 +6,6 @@
    If array type is object, integer, string, float, boolean then value assigned will be null, 0, " ", 0.0, false respectively.
 */
 
-import java.util.*;
 class basic{
     public static void main(String args[]){
         int[] marks = new int[3]; // declaration of array
