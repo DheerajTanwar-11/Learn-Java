@@ -33,6 +33,7 @@ class basic{
         // Update Bit Operation
         System.out.print("Enter the update status: ");
         int updateStatus = sc.nextInt();
+        sc.close();
         if(updateStatus == 1){
             System.out.println(bitmask | n);
         } else{
