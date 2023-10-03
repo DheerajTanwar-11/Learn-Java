@@ -1,5 +1,3 @@
 # Learn-Java
 
-A repo on path of learning Java
-<br>
-Author - Dheeraj Tanwar
+<h1>This is a repo created while learning java......</h1>
