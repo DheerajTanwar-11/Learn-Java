@@ -6,6 +6,7 @@
 5. Get operation => and operation between Bit Mask and Original Value
 6. Set operation => or operation between Bit Mask and Original Value
 7. Clear operation => and operation between not(bitmask) and original value.
+8. Update operation => for 1 : or operation, for 0: not(bitmask) & n.
 */
 
 import java.util.*;
